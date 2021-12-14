@@ -1,0 +1,11 @@
+C:\Users\CSE\Desktop\200042149\pharmacy management system\bin\Debug\pharmacy management system.exe.config
+C:\Users\CSE\Desktop\200042149\pharmacy management system\bin\Debug\pharmacy management system.exe
+C:\Users\CSE\Desktop\200042149\pharmacy management system\bin\Debug\pharmacy management system.pdb
+C:\Users\CSE\Desktop\200042149\pharmacy management system\obj\Debug\pharmacy management system.csproj.AssemblyReference.cache
+C:\Users\CSE\Desktop\200042149\pharmacy management system\obj\Debug\pharmacy management system.csproj.SuggestedBindingRedirects.cache
+C:\Users\CSE\Desktop\200042149\pharmacy management system\obj\Debug\pharmacy_management_system.Form1.resources
+C:\Users\CSE\Desktop\200042149\pharmacy management system\obj\Debug\pharmacy_management_system.Properties.Resources.resources
+C:\Users\CSE\Desktop\200042149\pharmacy management system\obj\Debug\pharmacy management system.csproj.GenerateResource.cache
+C:\Users\CSE\Desktop\200042149\pharmacy management system\obj\Debug\pharmacy management system.csproj.CoreCompileInputs.cache
+C:\Users\CSE\Desktop\200042149\pharmacy management system\obj\Debug\pharmacy management system.exe
+C:\Users\CSE\Desktop\200042149\pharmacy management system\obj\Debug\pharmacy management system.pdb
