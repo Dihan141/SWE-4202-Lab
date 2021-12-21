@@ -1,0 +1,11 @@
+D:\2nd semester\OOP lab\laundry management system\bin\Debug\laundry management system.exe.config
+D:\2nd semester\OOP lab\laundry management system\bin\Debug\laundry management system.exe
+D:\2nd semester\OOP lab\laundry management system\bin\Debug\laundry management system.pdb
+D:\2nd semester\OOP lab\laundry management system\obj\Debug\laundry management system.csproj.AssemblyReference.cache
+D:\2nd semester\OOP lab\laundry management system\obj\Debug\laundry management system.csproj.SuggestedBindingRedirects.cache
+D:\2nd semester\OOP lab\laundry management system\obj\Debug\laundry_management_system.Form1.resources
+D:\2nd semester\OOP lab\laundry management system\obj\Debug\laundry_management_system.Properties.Resources.resources
+D:\2nd semester\OOP lab\laundry management system\obj\Debug\laundry management system.csproj.GenerateResource.cache
+D:\2nd semester\OOP lab\laundry management system\obj\Debug\laundry management system.csproj.CoreCompileInputs.cache
+D:\2nd semester\OOP lab\laundry management system\obj\Debug\laundry management system.exe
+D:\2nd semester\OOP lab\laundry management system\obj\Debug\laundry management system.pdb
