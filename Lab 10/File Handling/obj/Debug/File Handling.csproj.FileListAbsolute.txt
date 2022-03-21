@@ -1,0 +1,11 @@
+C:\Users\CSE\Desktop\200042149\File Handling\bin\Debug\File Handling.exe.config
+C:\Users\CSE\Desktop\200042149\File Handling\bin\Debug\File Handling.exe
+C:\Users\CSE\Desktop\200042149\File Handling\bin\Debug\File Handling.pdb
+C:\Users\CSE\Desktop\200042149\File Handling\obj\Debug\File Handling.csproj.AssemblyReference.cache
+C:\Users\CSE\Desktop\200042149\File Handling\obj\Debug\File Handling.csproj.SuggestedBindingRedirects.cache
+C:\Users\CSE\Desktop\200042149\File Handling\obj\Debug\File_Handling.Form1.resources
+C:\Users\CSE\Desktop\200042149\File Handling\obj\Debug\File_Handling.Properties.Resources.resources
+C:\Users\CSE\Desktop\200042149\File Handling\obj\Debug\File Handling.csproj.GenerateResource.cache
+C:\Users\CSE\Desktop\200042149\File Handling\obj\Debug\File Handling.csproj.CoreCompileInputs.cache
+C:\Users\CSE\Desktop\200042149\File Handling\obj\Debug\File Handling.exe
+C:\Users\CSE\Desktop\200042149\File Handling\obj\Debug\File Handling.pdb

@@ -1,0 +1,8 @@
+C:\Users\CSE\Desktop\200042149\Lab 9\bin\Debug\Lab 9.exe.config
+C:\Users\CSE\Desktop\200042149\Lab 9\bin\Debug\Lab 9.exe
+C:\Users\CSE\Desktop\200042149\Lab 9\bin\Debug\Lab 9.pdb
+C:\Users\CSE\Desktop\200042149\Lab 9\obj\Debug\Lab 9.csproj.AssemblyReference.cache
+C:\Users\CSE\Desktop\200042149\Lab 9\obj\Debug\Lab 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\CSE\Desktop\200042149\Lab 9\obj\Debug\Lab 9.csproj.CoreCompileInputs.cache
+C:\Users\CSE\Desktop\200042149\Lab 9\obj\Debug\Lab 9.exe
+C:\Users\CSE\Desktop\200042149\Lab 9\obj\Debug\Lab 9.pdb
