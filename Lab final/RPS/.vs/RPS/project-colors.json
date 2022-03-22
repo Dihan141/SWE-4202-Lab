@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cbbe5673-6da2-42cd-88d9-e59adc30e58f": {
+      "ProjectGuid": "cbbe5673-6da2-42cd-88d9-e59adc30e58f",
+      "DisplayName": "RPS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
